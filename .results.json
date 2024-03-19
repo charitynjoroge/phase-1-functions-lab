@@ -1,0 +1,74 @@
+{
+  "stats": {
+    "suites": 5,
+    "tests": 4,
+    "passes": 4,
+    "pending": 0,
+    "failures": 0,
+    "start": "2024-03-19T08:38:15.706Z",
+    "end": "2024-03-19T08:38:16.800Z",
+    "duration": 1094
+  },
+  "tests": [
+    {
+      "title": "returns a distance in blocks",
+      "fullTitle": "index.js distanceFromHqInBlocks() returns a distance in blocks",
+      "duration": 3,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns a distance in feet",
+      "fullTitle": "index.js distanceFromHqInFeet() returns a distance in feet",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns the distance travelled in feet",
+      "fullTitle": "index.js distanceTravelledInFeet() returns the distance travelled in feet",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "gives customers a free sample",
+      "fullTitle": "index.js calculatesFarePrice(start, destination) gives customers a free sample",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "returns a distance in blocks",
+      "fullTitle": "index.js distanceFromHqInBlocks() returns a distance in blocks",
+      "duration": 3,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns a distance in feet",
+      "fullTitle": "index.js distanceFromHqInFeet() returns a distance in feet",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns the distance travelled in feet",
+      "fullTitle": "index.js distanceTravelledInFeet() returns the distance travelled in feet",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "gives customers a free sample",
+      "fullTitle": "index.js calculatesFarePrice(start, destination) gives customers a free sample",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
